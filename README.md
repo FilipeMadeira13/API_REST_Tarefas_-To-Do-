@@ -33,7 +33,7 @@ Uma API RESTful simples e eficiente para gerenciamento de tarefas, construída c
 
 ```bash
 git clone https://github.com/FilipeMadeira13/API_REST_Tarefas_-To-Do-.git
-cd nome-do-projeto
+cd API_REST_Tarefas_-To-Do-
 ```
 
 ### 2. Instale as dependências
